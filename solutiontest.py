@@ -6,3 +6,5 @@ class operators:
    			return x-y
    		elif op=="*":
    			return x*y
+   		elif op=="/":
+   			return y / x
